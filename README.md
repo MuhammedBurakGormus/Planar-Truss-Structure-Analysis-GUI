@@ -8,7 +8,7 @@ The MATLAB GUI allows the analysis of planar truss structures using Finite Eleme
   
   • Reaction forces at the supports can found.
   
-The GUI is named as PlanarTrussStructureAnalysisGUI.p; and the other files are needed for running the GUI. 
+The GUI is named as TrussStructure_exported.p; and the other files are needed for running the GUI. 
 
 The manual is named as Truss_Structure_Analysis_Manual.pdf in which the basic instructions related to GUI are given. 
 
