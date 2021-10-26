@@ -1,12 +1,9 @@
 # PlanarTrussStructureAnalysisGUI
 
 The MATLAB GUI allows the analysis of planar truss structures using Finite Element Method such that:
-
-  • The deflection values throughout the structure in both x and y directions
-  
-  • The stress value for each element
-  
-  • Reaction forces at the supports can found.
+- The deflection values throughout the structure in both x and y directions
+- The stress value for each element
+- Reaction forces at the supports can found.
   
 The GUI is named as TrussStructure_exported.p; and the other files are needed for running the GUI. 
 
